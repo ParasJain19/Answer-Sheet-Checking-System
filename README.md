@@ -27,7 +27,7 @@ MCQ-AnswerSheet-Checker/
 - Python **3.6 - 3.11**
 - Required Libraries:
   ```bash
-  pip install -r requirements.txt
+  pip install opencv-python pandas tensorflow pillow openpyxl
   ```
 
 ## Installation & Usage
@@ -40,7 +40,7 @@ cd MCQ-AnswerSheet-Checker
 ### 2. Install Dependencies
 ```bash
 pip install opencv-python pandas tensorflow pillow openpyxl
-``
+```
 ### 3. Run the Application
 ```bash
 python main.py
